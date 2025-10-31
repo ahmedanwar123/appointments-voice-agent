@@ -33,7 +33,7 @@ voice-automation-agent/
 ├── appointments.json   # Local saved appointments (auto-created)
 ├── appointments.md     # Markdown log of all appointments (auto-created)
 │
-└── requirements.txt    # Dependencies (optional)
+└── requirements.txt    # Dependencies
 ```
 
 ---
@@ -199,6 +199,6 @@ Examples:
 
 **Ahmed Anwar Gad**
 
-CSE SEnior - E-JUST
+CSE Senior - E-JUST
 
 ahmed.anwar2003@gmail.com
