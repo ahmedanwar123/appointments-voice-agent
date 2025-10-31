@@ -8,14 +8,20 @@ It integrates  **speech recognition** ,  **text-to-speech (TTS)** , and an **moc
 
 ## Features
 
-**- Voice Interaction** – Speak commands like “Book a meeting” or “List my appointments.”
+**- Voice Interaction** 
+      - Speak commands like “Book a meeting” or “List my appointments.”
 
-**- Text Fallback** – Automatically switches to text input if microphone or speech fails.
+**- Text Fallback** 
+    – Automatically switches to text input if microphone or speech fails.
 
-- **Appointment Management** – Create, list, and store appointments locally (JSON & Markdown).
-- **Conflict Detection** – Prevents overlapping bookings.
-- **Mock API Integration** – Simulates cloud scheduling APIs via Flask.
-- **Persistent Storage** – Saves all appointments locally for later retrieval.
+- **Appointment Management**
+  - Create, list, and store appointments locally (JSON & Markdown).
+- **Conflict Detection**
+  - Prevents overlapping bookings.
+- **Mock API Integration**
+  - Simulates cloud scheduling APIs via Flask.
+- **Persistent Storage**
+  - Saves all appointments locally for later retrieval.
 
 ---
 
