@@ -1,0 +1,7 @@
+python-dateutil
+SpeechRecognition
+pyttsx3
+requests
+pytest
+flask
+pyaudio
