@@ -2,7 +2,7 @@
 
 A **voice-driven scheduling assistant** that can  **book** ,  **list** , and **manage appointments** through natural voice commands.
 
-It integrates  **speech recognition** ,  **text-to-speech (TTS)** , and an **mock API backend** for appointment handling.
+It integrates  **speech recognition** ,  **text-to-speech (TTS)** , and a **mock API** for appointment handling.
 
 ---
 
